@@ -1,0 +1,15 @@
+body {
+  background-color: floralwhite;
+  font-size: 15px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.judul {
+  font: x-large;
+  text-align: center;
+}
+
+.isi {
+  font-style: inherit;
+  font-variant: small-caps;
+}
